@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "supabase-apiman",
+    "slug": "snack-07ecc01f-0c01-4578-a53e-c192fb3ab2b5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.btoone.snack-07ecc01f-0c01-4578-a53e-c192fb3ab2b5"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.btoone.snack07ecc01f0c014578a53ec192fb3ab2b5"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
